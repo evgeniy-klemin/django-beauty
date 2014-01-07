@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+static/*
+media/*
+base/static/*.html
+venv
+.ropeproject
